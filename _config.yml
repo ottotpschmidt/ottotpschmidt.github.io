@@ -23,7 +23,7 @@ repository               : "ottotpschmidt/ottotpschmidt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "522f019fcf99b613.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Hey, I am a mathematical physicist working on the intersection of algebraic geometry and quantum many-body systems. I am currently working on my PhD project under a Marie-Sklodowska Curie fellowship at the Max-Planck Institute for the Mathematics in the Sciences."  # A short bio to display in the sidebar
