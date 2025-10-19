@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Personal Webpage – Otto T. P. Schmidt
 
 Hey, this is my landing page for academic purposes.
 
