@@ -73,4 +73,4 @@ Work experience
   * Duties included: Voluntary service at Gebirgsjägerbattalion 232
 
 
-A full CV as PDF can be found here.
+A full CV as PDF can be found [here]('http://ottotpschmidt.github.io/files/CV_OTPS.pdf').
