@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal webpage Otto TP Schmidt"
+title: "Personal webpage - Otto T.P. Schmidt"
 author_profile: true
 redirect_from: 
   - /about/
