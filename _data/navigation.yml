@@ -13,21 +13,15 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Schuettelreime"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
+  - title: "Intersting stuff"
     url: /markdown/
