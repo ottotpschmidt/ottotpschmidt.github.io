@@ -7,8 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hey, this is my landing page for academic purposes. 
+# Personal Webpage – Otto T. P. Schmidt
 
-My name is Otto. I am a physicist working on mathematical topics. In my PhD, which I am doing in the frame of the Marie Sklodowska-Curie PhD Fellowship [TENORS][https://tenors-network.eu/dc-10-geometry-of-tensor-network-varieties-for-quantum-condensed-matter-physics/], I am applying methods from algebraic geometry to problems in quantum condensed matter physics. 
+Hey, this is my landing page for academic purposes.
 
-In this context, the main object of my studies are tensor networks of various forms. These networks can be applied to gain numerical and conceptual insight into complex quantum many-body systems and have gained popularity over the recent years. In mathematical terms, tensor networks can also be seen as rational maps from a parameter space into an embedding space. Since these maps are polynomial, we can easily define a variety in the embedding cut out by the coordinate function of said map. Studiying the tensor networks in this algebro-geometric fashion increases the abstraction level of the networks and can lead to interesting insights as to how they represent physical systems. 
+My name is **Otto**, and I am a physicist working on mathematical aspects of quantum condensed matter physics. In my PhD, which I am pursuing as part of the [Marie Skłodowska-Curie PhD Fellowship TENORS](https://tenors-network.eu/dc-10-geometry-of-tensor-network-varieties-for-quantum-condensed-matter-physics/), I apply methods from algebraic geometry to problems in quantum many-body physics.
+
+A central object of my research is **tensor networks** in various forms. These networks are powerful tools for gaining both numerical and conceptual insights into complex quantum systems and have become increasingly popular in recent years. Mathematically, tensor networks can be viewed as **rational maps** from a parameter space to an embedding space. Since these maps are polynomial, they define varieties in the embedding space cut out by their coordinate functions.  
+
+Studying tensor networks through this **algebro-geometric lens** raises the level of abstraction and can lead to new insights into how these networks represent physical systems.
+
