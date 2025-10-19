@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -72,3 +72,5 @@ Work experience
   * Bundeswehr Deutschland, Berchtesgaden, Germany  
   * Duties included: Voluntary service at Gebirgsjägerbattalion 232
 
+
+A full CV as PDF can be found here.
