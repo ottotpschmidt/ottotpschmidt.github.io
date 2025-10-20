@@ -9,13 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D. Marie Sklodowska-Curie Fellowship TENORS, Mathematics and Physics, 2027 (expected)
-* M.Sc. Quantum Engineering, ETH Zürich, 2024
-* B.Sc. Physics, ETH Zürich, 2022
-* B.Sc. Mathematical Economics, Universität Mannheim, 2019
 
+* Nov. 2024 – present: Marie Skłodowska-Curie Doctoral Fellowship (MSCA joint PhD program in Mathematics and Physics)  
+  * Title: *Geometry of tensor network varieties for quantum condensed matter physics*  
+  * Supervision: Iacopo Carusotto (INO-BEC), Simon Telen (MPI MIS), Shane Mansfield (Quandela)  
+
+* March 2024 – Oct. 2024: Postgraduate studies / Master thesis
+  * Imperial College London, GB
+  * Project: *Optical Quantum Memory — DRAGON*  
+  * Supervision: Ian Walmsley, Tilman Esslinger
+
+* Sept. 2022 – 2024: M.Sc. in Quantum Engineering  
+  * ETH Zürich, Zurich, Switzerland  
+  * Focus: Quantum Optics, Quantum Information Theory, Quantum Many-Body Systems
+
+* Sept. 2019 – Aug. 2022: B.Sc. in Physics  
+  * ETH Zürich, Zurich, Switzerland
+
+* Sept. 2018 – Jan. 2019: Study abroad / B.Sc. coursework in Economics (PROMOS stipend from DAAD)  
+  * Korea University, Seoul, South Korea
+
+* Sept. 2016 – Sept. 2019: B.Sc. in Mathematical Economics  
+  * University of Mannheim, Mannheim, Germany
+
+    
 Work experience
 ======
 
