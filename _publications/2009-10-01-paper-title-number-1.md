@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Ab initio simulation of spin-charge qubits based on bilayer graphene-WSe2 quantum dots"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'In this paper we investigated a WSe2 heterostructure and proposed a novel scheme two define hyperentanglement between charge and spin.'
+date: 2025-05-12
+venue: 'npj 2D Materials and Applications 9 (1), 47'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ge, H., Koopmann, P., Mrcarica, F. et al. Ab initio simulation of spin-charge qubits based on bilayer graphene-WSe2 quantum dots. npj 2D Mater Appl 9, 47 (2025). https://doi.org/10.1038/s41699-025-00568-y'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
