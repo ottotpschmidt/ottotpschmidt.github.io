@@ -10,12 +10,12 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Research"
+    url: /research/
 
   - title: "Piphilology"
     url: /pi/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Schuettelreime"
     url: /year-archive/
