@@ -23,7 +23,7 @@ repository               : "ottotpschmidt/ottotpschmidt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "522f019fcf99b613.jpg"
+  avatar           : "OTPS_TENORS.jpg"
   name             : "Otto TP Schmidt"
   pronouns         : # example: "she/her"  
   bio              : "Hey, I am a mathematical physicist working on the intersection of algebraic geometry and quantum many-body systems. The avatar above is not me, but a Baltic German scientist, who shares the same name. He had an interesting life... "  # A short bio to display in the sidebar
