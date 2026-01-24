@@ -9,6 +9,7 @@ redirect_from:
 
 
 Hey, this is my landing page for academic purposes.
+<span style="color:red">UNDER CONSTRUCTION</span>.
 
 My name is **Otto**, and I am a physicist working on mathematical aspects of quantum condensed matter physics. In my PhD, which I am pursuing as part of the [Marie Skłodowska-Curie PhD Fellowship TENORS](https://tenors-network.eu/dc-10-geometry-of-tensor-network-varieties-for-quantum-condensed-matter-physics/), I apply methods from algebraic geometry to problems in quantum many-body physics.
 
