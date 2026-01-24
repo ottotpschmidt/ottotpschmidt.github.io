@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "SPi"
-permalink: /piphilology/
+title: "Pi"
+permalink: /pi/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
