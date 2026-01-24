@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Pi"
-permalink: /pi/
+title: "Research directions"
+permalink: /research/
 author_profile: true
 ---
 
