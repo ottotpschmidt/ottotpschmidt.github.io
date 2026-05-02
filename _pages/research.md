@@ -7,8 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-I am currently following to research directions. 
+I am currently following these research directions.
 
-1. Bogoliubov-de Gennes theory for collective excitations
+## Degree of tensor train varieties via integral geometry
 
-2. Tensor trains in algebraic geometry
+To be added.
+
+## Geometry of excited states via linearised tangent method of TT
+
+To be added.
+
+## Homotopy hypersurface region for continuation of ground states on varieties
+
+To be added.
