@@ -18,7 +18,7 @@ main:
     url: /pi/    
         
   - title: "Schuettelreime"
-    url: /year-archive/
+    url: /reime/
     
   - title: "CV"
     url: /cv/
