@@ -16,4 +16,5 @@ A central object of my research are **tensor networks** in various forms. These 
 
 Studying tensor networks through this **algebro-geometric lens** raises the level of abstraction and can lead to new insights into how these networks represent physical systems. What can we understand about the physical state by looking at geometric properties like the degree of dimension of the variety?
 
+Although I do no longer work in this area, I really love experimental quantum optics, atomic physics and experimental quantum physics in general. To me this is hardcore experimental work and results in the most interesting applications. Be it neutral atom tweezer arrays, Rubidium vapor quantum memories or fancy stuff with quasiparitcles like polaritons. Best best way to stay updated about this is [Quanta](https://www.quantamagazine.org/) or [Phys.org](https://phys.org/)
 
