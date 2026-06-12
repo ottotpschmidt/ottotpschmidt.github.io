@@ -9,6 +9,10 @@ author_profile: true
 
 I am currently following these research directions.
 
+## Ideals of tree tensor network varieties
+
+In a recent project I am trying to understand how the use of spaced tress as in this [paper][https://arxiv.org/abs/0712.3230] by Draisma and Kuttler allows to determine the ideal for tree tensor networks. Joint work with Serkan Hosten, Dmirty Skurt and Niharika Paul.
+
 ## Degree of tensor train varieties via integral geometry
 
 Tensor networks are widely used in many-body quantum physics. However, only a few algebraic properties of their corresponding parametrization are known. In this project we derive a formula, or rather algorithmic computation, for the degree of tensor train varieties. Joint work with Andrea Rosana.
