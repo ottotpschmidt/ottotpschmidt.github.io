@@ -24,7 +24,7 @@ repository               : "ottotpschmidt/ottotpschmidt.github.io"
 author:
   # Biographic information
   avatar           : "OTPS_TENORS.jpg"
-  name             : "Otto TP Schmidt"
+  name             : "Otto T.P. Schmidt"
   pronouns         : # example: "she/her"  
   bio              : "Hey, I am a mathematical physicist working on the intersection of algebraic geometry and quantum many-body systems."  # A short bio to display in the sidebar
   location         : "Leipzig / Trento / Paris"
