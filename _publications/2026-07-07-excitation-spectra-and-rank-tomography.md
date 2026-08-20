@@ -3,7 +3,7 @@ title: "Excitation spectra and rank tomography of linear matrix product tangent 
 collection: publications
 category: preprints
 permalink: /publication/2026-07-07-excitation-spectra-and-rank-tomography
-excerpt: 'We present an algebro-geometric perspective on MPS tangent-space methods for reconstruction of excitation spectra'
+excerpt: 'We present an algebro-geometric perspective on MPS tangent-space methods for reconstruction of excitation spectra.'
 date: 2026-07-07
 venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/2607.05269'
